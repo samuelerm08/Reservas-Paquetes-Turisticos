@@ -1,0 +1,15 @@
+C:\Users\samue\OneDrive\Escritorio\PRO\POO\PROYECTOS\ReservasTuristicas\bin\Debug\net6.0\ReservasTuristicas.exe
+C:\Users\samue\OneDrive\Escritorio\PRO\POO\PROYECTOS\ReservasTuristicas\bin\Debug\net6.0\ReservasTuristicas.deps.json
+C:\Users\samue\OneDrive\Escritorio\PRO\POO\PROYECTOS\ReservasTuristicas\bin\Debug\net6.0\ReservasTuristicas.runtimeconfig.json
+C:\Users\samue\OneDrive\Escritorio\PRO\POO\PROYECTOS\ReservasTuristicas\bin\Debug\net6.0\ReservasTuristicas.dll
+C:\Users\samue\OneDrive\Escritorio\PRO\POO\PROYECTOS\ReservasTuristicas\bin\Debug\net6.0\ReservasTuristicas.pdb
+C:\Users\samue\OneDrive\Escritorio\PRO\POO\PROYECTOS\ReservasTuristicas\obj\Debug\net6.0\ReservasTuristicas.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Escritorio\PRO\POO\PROYECTOS\ReservasTuristicas\obj\Debug\net6.0\ReservasTuristicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\OneDrive\Escritorio\PRO\POO\PROYECTOS\ReservasTuristicas\obj\Debug\net6.0\ReservasTuristicas.AssemblyInfoInputs.cache
+C:\Users\samue\OneDrive\Escritorio\PRO\POO\PROYECTOS\ReservasTuristicas\obj\Debug\net6.0\ReservasTuristicas.AssemblyInfo.cs
+C:\Users\samue\OneDrive\Escritorio\PRO\POO\PROYECTOS\ReservasTuristicas\obj\Debug\net6.0\ReservasTuristicas.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Escritorio\PRO\POO\PROYECTOS\ReservasTuristicas\obj\Debug\net6.0\ReservasTuristicas.dll
+C:\Users\samue\OneDrive\Escritorio\PRO\POO\PROYECTOS\ReservasTuristicas\obj\Debug\net6.0\refint\ReservasTuristicas.dll
+C:\Users\samue\OneDrive\Escritorio\PRO\POO\PROYECTOS\ReservasTuristicas\obj\Debug\net6.0\ReservasTuristicas.pdb
+C:\Users\samue\OneDrive\Escritorio\PRO\POO\PROYECTOS\ReservasTuristicas\obj\Debug\net6.0\ReservasTuristicas.genruntimeconfig.cache
+C:\Users\samue\OneDrive\Escritorio\PRO\POO\PROYECTOS\ReservasTuristicas\obj\Debug\net6.0\ref\ReservasTuristicas.dll
