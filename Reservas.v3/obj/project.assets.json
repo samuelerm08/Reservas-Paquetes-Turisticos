@@ -1,0 +1,107 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Reservas.v3.App/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Reservas.v3.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Reservas.v3.App.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Reservas.v3.App.dll": {}
+        }
+      },
+      "Reservas.v3.Core/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Reservas.v3.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Reservas.v3.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Reservas.v3.App/1.0.0": {
+      "type": "project",
+      "path": "../Reservas.v3.App/Reservas.v3.App.csproj",
+      "msbuildProject": "../Reservas.v3.App/Reservas.v3.App.csproj"
+    },
+    "Reservas.v3.Core/1.0.0": {
+      "type": "project",
+      "path": "../Reservas.v3.Core/Reservas.v3.Core.csproj",
+      "msbuildProject": "../Reservas.v3.Core/Reservas.v3.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Reservas.v3.App >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\samue\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\samue\\OneDrive\\Escritorio\\PRO\\POO\\PROYECTOS\\Reservas.v3\\Reservas.v3.csproj",
+      "projectName": "Reservas.v3",
+      "projectPath": "C:\\Users\\samue\\OneDrive\\Escritorio\\PRO\\POO\\PROYECTOS\\Reservas.v3\\Reservas.v3.csproj",
+      "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\samue\\OneDrive\\Escritorio\\PRO\\POO\\PROYECTOS\\Reservas.v3\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\samue\\OneDrive\\Escritorio\\PRO\\POO\\PROYECTOS\\Reservas.v3.App\\Reservas.v3.App.csproj": {
+              "projectPath": "C:\\Users\\samue\\OneDrive\\Escritorio\\PRO\\POO\\PROYECTOS\\Reservas.v3.App\\Reservas.v3.App.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

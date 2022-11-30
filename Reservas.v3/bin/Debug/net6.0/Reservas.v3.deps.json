@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Reservas.v3/1.0.0": {
+        "dependencies": {
+          "Reservas.v3.App": "1.0.0"
+        },
+        "runtime": {
+          "Reservas.v3.dll": {}
+        }
+      },
+      "Reservas.v3.App/1.0.0": {
+        "dependencies": {
+          "Reservas.v3.Core": "1.0.0"
+        },
+        "runtime": {
+          "Reservas.v3.App.dll": {}
+        }
+      },
+      "Reservas.v3.Core/1.0.0": {
+        "runtime": {
+          "Reservas.v3.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Reservas.v3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Reservas.v3.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Reservas.v3.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
